@@ -1,0 +1,4 @@
+Id,Type,Value,action,severity
+4,IP,23.41.37.76,block,High
+5,IP,83.229.65.234,block,High
+6,IP,98.82.161.185,block,High
